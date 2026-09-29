@@ -1,0 +1,10 @@
+{
+  "name": "Remix OmniTrack Vision",
+  "description": "Real-time computer vision platform featuring YOLO and COCO-SSD object detection, SORT multi-object tracking, trajectory paths, tripwire counting, and live telemetry analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
